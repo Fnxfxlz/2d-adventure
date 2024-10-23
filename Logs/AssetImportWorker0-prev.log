@@ -1,0 +1,430 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.6 (Build 20G165)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/2020.3.27f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/game112/2d adventure
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59817
+Successfully changed project path to: /Users/game112/2d adventure
+/Users/game112/2d adventure
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/game112/2d adventure/Assets
+GfxDevice: creating device client; threaded=0
+2024-10-22 09:11:01.447 Unity[34100:1786833] iMac preferred device: AMD Radeon Pro 5300 (high power)
+2024-10-22 09:11:01.447 Unity[34100:1786833] Metal devices available: 1
+2024-10-22 09:11:01.447 Unity[34100:1786833] 0: AMD Radeon Pro 5300 (high power)
+2024-10-22 09:11:01.448 Unity[34100:1786833] Using device AMD Radeon Pro 5300 (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300
+Initialize mono
+Mono path[0] = '/Applications/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002192 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.661 seconds
+Domain Reload Profiling:
+	ReloadAssembly (661ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (474ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (171ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (187ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006517 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 42.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1188ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (984ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (362ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (43ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.004802 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.004907 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2543 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.8 MB.
+System memory in use after: 228.9 MB.
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 3011.
+Total: 3.281475 ms (FindLiveObjects: 0.190089 ms CreateObjectMapping: 0.094053 ms MarkObjects: 2.524119 ms  DeleteObjects: 0.472596 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_2.png
+  artifactKey: Guid(45130b74f6f00be4ba1b0a5b37d7e997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_2.png using Guid(45130b74f6f00be4ba1b0a5b37d7e997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea94cc1b9f882daeb2b36462aa38aa37') in 0.915554 seconds 
+  Import took 0.924108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_7.png
+  artifactKey: Guid(7016235154b558546b1445d5224e9688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_7.png using Guid(7016235154b558546b1445d5224e9688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f159f3deebc6819868d82c4fec82c9c') in 0.013188 seconds 
+  Import took 0.016922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorGrassToBricksSquare.png
+  artifactKey: Guid(706727f9d7b908541ae34b2303650f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorGrassToBricksSquare.png using Guid(706727f9d7b908541ae34b2303650f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24b2ab433c85657544f70bd87380c1d') in 0.015077 seconds 
+  Import took 0.019025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/VerticalFalloff.png
+  artifactKey: Guid(0be9c4312549cfa4f9a0fe5946274874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/VerticalFalloff.png using Guid(0be9c4312549cfa4f9a0fe5946274874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b6a2f015f0828c1a9faf8575983225') in 0.013664 seconds 
+  Import took 0.017594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorGrassToBricksCorner.png
+  artifactKey: Guid(4fb4eb60cbde78c44a0c63c8b475cd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorGrassToBricksCorner.png using Guid(4fb4eb60cbde78c44a0c63c8b475cd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0e43ec4158a0df95128d12d1fffe41') in 0.011328 seconds 
+  Import took 0.015095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_3.png
+  artifactKey: Guid(7eacbad3a4a7642409aa97cccf8ca843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_3.png using Guid(7eacbad3a4a7642409aa97cccf8ca843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abafb5d5622b6e301d880ef1c14557f') in 0.015998 seconds 
+  Import took 0.020495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png
+  artifactKey: Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png using Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf783201e5b36957b7d36684d89a7f5') in 0.011788 seconds 
+  Import took 0.015497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_8.png
+  artifactKey: Guid(01aa7f9f03864f345a61f91a19f56428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_8.png using Guid(01aa7f9f03864f345a61f91a19f56428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115c62d721d157bafac1689c9b1ebda5') in 0.011969 seconds 
+  Import took 0.015823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVerticalFlipped.png
+  artifactKey: Guid(3cab4bbf36a2cf04aa37625f49ab1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVerticalFlipped.png using Guid(3cab4bbf36a2cf04aa37625f49ab1b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7743fd27186de9bd16fc5a9c3b2cb5b') in 0.014347 seconds 
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/DamageZone.png
+  artifactKey: Guid(3325234d9883550489ddb29f3e66f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/DamageZone.png using Guid(3325234d9883550489ddb29f3e66f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c2d53acc5d42ee9469cb68d0148b87') in 0.012409 seconds 
+  Import took 0.016371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_5.png
+  artifactKey: Guid(66968c77a5567324387f9ff6a5d241bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_5.png using Guid(66968c77a5567324387f9ff6a5d241bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a15de8f9cf075dae5bbbcc40d0c448') in 0.015666 seconds 
+  Import took 0.020478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_1.png
+  artifactKey: Guid(f5e853af8656e25428b72c63612959c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_1.png using Guid(f5e853af8656e25428b72c63612959c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824d5b2e89dc892a6cef0b6ed08d901e') in 0.015436 seconds 
+  Import took 0.021588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorWaterRoundCorners.png
+  artifactKey: Guid(8dfedb129e3108147867a7acca7b13a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorWaterRoundCorners.png using Guid(8dfedb129e3108147867a7acca7b13a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6046762d8b0a9abeb12923efdbd6e0c') in 0.014835 seconds 
+  Import took 0.019519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_4.png
+  artifactKey: Guid(23d8df0218475df46be56a8143990f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_4.png using Guid(23d8df0218475df46be56a8143990f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799bb0eba4e73b0fcd34a319e3db6036') in 0.010783 seconds 
+  Import took 0.014818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_3_Shadow.png
+  artifactKey: Guid(79791f7be235088459055342c21bc928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_3_Shadow.png using Guid(79791f7be235088459055342c21bc928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd350110c3c6140cb5337109e3119041e') in 0.015585 seconds 
+  Import took 0.020373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVerticalFalloff.png
+  artifactKey: Guid(800b1f8aa84b8f54bb032207e0254e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVerticalFalloff.png using Guid(800b1f8aa84b8f54bb032207e0254e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff295f05133ae0cdfcf5602539d6a2f') in 0.012089 seconds 
+  Import took 0.015664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_12.png
+  artifactKey: Guid(969741e5ac68b264c98b3305e6546d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_12.png using Guid(969741e5ac68b264c98b3305e6546d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467e21312e5bf59b43057819dfcec9d6') in 0.020434 seconds 
+  Import took 0.023898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png
+  artifactKey: Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png using Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0766d0dd0036649d300b29bffc3a3f32') in 0.011068 seconds 
+  Import took 0.014769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent
+  artifactKey: Guid(5d8ec53d76ac1c5408ab93828b6be2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent using Guid(5d8ec53d76ac1c5408ab93828b6be2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581e03e0b7160c327f320ed2e6f0e9f2') in 0.001324 seconds 
+  Import took 0.004516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_11.png
+  artifactKey: Guid(cabf70a81f6d2e24b8fe258e1f8f6fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_11.png using Guid(cabf70a81f6d2e24b8fe258e1f8f6fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81803737b6be27c1979b44432fb34a7f') in 0.011212 seconds 
+  Import took 0.014626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_6.png
+  artifactKey: Guid(82d5688758c3b77419f8685039b754e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/Decoration_6.png using Guid(82d5688758c3b77419f8685039b754e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647025f4e7be9646025bfb9e666832c2') in 0.010686 seconds 
+  Import took 0.014397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/VerticalFalloffFade.png
+  artifactKey: Guid(aaf1c634f47c03c4ba90c074f431b1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/VerticalFalloffFade.png using Guid(aaf1c634f47c03c4ba90c074f431b1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a165b5eeecc68e28416a965bfbf3f546') in 0.011035 seconds 
+  Import took 0.014525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.530160 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png
+  artifactKey: Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png using Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a90bb75622f6e4217ebea4d5816092') in 0.007686 seconds 
+  Import took 0.011817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.018417 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png
+  artifactKey: Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical.png using Guid(fbb8370f7efa7664d8c4c01884ab2c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dad77344168ad5483bc5a0510b258ed') in 0.032996 seconds 
+  Import took 0.037006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.928496 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_0.asset
+  artifactKey: Guid(2c517034ea105412d824d293fa2a5360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_0.asset using Guid(2c517034ea105412d824d293fa2a5360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84664451ff67418695ffedfbaaf8f63c') in 0.958345 seconds 
+  Import took 0.964860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_4.asset
+  artifactKey: Guid(28ad042d7e4c74ea6990860822429e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_4.asset using Guid(28ad042d7e4c74ea6990860822429e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aecdfdc0301ad82635fa1fc6f2abb4a') in 0.011159 seconds 
+  Import took 0.015306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_1.asset
+  artifactKey: Guid(e2df186e362aa4a84b98a0b307e1d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_1.asset using Guid(e2df186e362aa4a84b98a0b307e1d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b0cb9159a27aacc07dc9a284c22c2b') in 0.010305 seconds 
+  Import took 0.014491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_5.asset
+  artifactKey: Guid(3d43f59d4c69c40f89d22645e11f3413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_5.asset using Guid(3d43f59d4c69c40f89d22645e11f3413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a010509456edd968e2ecc492950c8bf7') in 0.009789 seconds 
+  Import took 0.013773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_2.asset
+  artifactKey: Guid(a8339533ba845416599d0d620e2c073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_2.asset using Guid(a8339533ba845416599d0d620e2c073b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acbffc0b0c4da97e0fbf090f010f073') in 0.010078 seconds 
+  Import took 0.013603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_6.asset
+  artifactKey: Guid(beab8ba918d4542a79eed25e78c27c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_6.asset using Guid(beab8ba918d4542a79eed25e78c27c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f41b1698bb6c722409c318c944b585') in 0.012757 seconds 
+  Import took 0.017462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_8.asset
+  artifactKey: Guid(c1468e286bd8145aeb10b68c40ad003a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_8.asset using Guid(c1468e286bd8145aeb10b68c40ad003a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fea81534b42b0ada92fd7633bd1966e') in 0.011441 seconds 
+  Import took 0.015533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_3.asset
+  artifactKey: Guid(4427a4514e9024e3e8312dfaf5497338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_3.asset using Guid(4427a4514e9024e3e8312dfaf5497338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dfd79545dea9d3d48d6e5f4bafd8472') in 0.009700 seconds 
+  Import took 0.013283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_7.asset
+  artifactKey: Guid(ffed93ddb6e5c48f298e501063123a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBlueGrassToVertical_7.asset using Guid(ffed93ddb6e5c48f298e501063123a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dea1e1d07934e4b06d01dea9387f8a') in 0.010054 seconds 
+  Import took 0.013964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.674041 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png
+  artifactKey: Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png using Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e458879cfdc96bb06c70bca3a0bec5d4') in 0.009751 seconds 
+  Import took 0.014171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.922635 seconds.
+  path: Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png
+  artifactKey: Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/StarterAsset/Art/Ducko/Environmnent/FloorBricksToGrassSquare.png using Guid(ac797677eb52ba746873f115c919c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0aac7326fa73411a1a8d02721638ff3') in 0.039669 seconds 
+  Import took 0.043602 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
